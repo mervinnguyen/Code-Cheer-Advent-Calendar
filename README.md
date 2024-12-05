@@ -17,4 +17,4 @@ Feel free to fork this repository, add your own creative projects, and submit a 
 
 Thank you for stopping by. I hope these projects bring some joy and cheer to your coding journey. 🎁✨
 
-![Christmas](micromouse.jpg)
+![Christmas](Christmas.jpg)
