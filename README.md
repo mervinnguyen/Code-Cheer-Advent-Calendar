@@ -3,9 +3,11 @@ A festive programming journey to express my passion for my favorite holiday of t
 
 # What's Inside?
 
--Daily Python projects: Each day features a unique project that blends creativity and coding. 
--Holiday Themes: From festive greeting cards to interactive challenges, everything is designed with the Christmas spirit in mind. 
--Learning & Fun: Great for exploring Python concepts while celebrating the holiday season. 
+-**Daily Python projects**: Each day features a unique project that blends creativity and coding. 
+
+-**Holiday Themes**: From festive greeting cards to interactive challenges, everything is designed with the Christmas spirit in mind. 
+
+-**Learning & Fun**: Great for exploring Python concepts while celebrating the holiday season. 
 
 
 # 🎄 Contribution 
