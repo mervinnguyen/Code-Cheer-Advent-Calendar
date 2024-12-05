@@ -7,6 +7,7 @@
 #3: Add to generate a greeting card with a festive ASCII border.
 
 def generateGreetinCard():
+#create ASCII border
 
 if __name__ == "__main__":
     message = "Happy holidays! Wishing you joy and peace."
