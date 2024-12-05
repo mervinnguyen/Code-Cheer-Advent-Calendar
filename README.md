@@ -13,7 +13,7 @@ A festive programming journey to express my passion for my favorite holiday of t
 Feel free to fork this repository, add your own creative projects, and submit a pull request. Let's make this advent calendar a collaborative celebration!
 
 
-# 🎄 Contribution 
+# ❄️ Happy Holidays! 
 
 Thank you for stopping by. I hope these projects bring some joy and cheer to your coding journey. 🎁✨
 
