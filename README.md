@@ -5,11 +5,11 @@ Join me as I count down to Christmas with creativity and code!
 
 # What's Inside?
 
--**Daily Python projects**: Each day features a unique project that blends creativity and coding. 
+**Daily Python projects**: Each day features a unique project that blends creativity and coding. 
 
--**Holiday Themes**: From festive greeting cards to interactive challenges, everything is designed with the Christmas spirit in mind. 
+**Holiday Themes**: From festive greeting cards to interactive challenges, everything is designed with the Christmas spirit in mind. 
 
--**Learning & Fun**: Great for exploring Python concepts while celebrating the holiday season. 
+**Learning & Fun**: Great for exploring Python concepts while celebrating the holiday season. 
 
 
 # 🎄 Contribution 
