@@ -9,3 +9,6 @@ n = 45
 speed(0)
 pensize(2)
 bgcolor('Christmas.jpg')
+
+mixer.init() # Initialize the mixer for music
+mixer.music.load('') # Load the music file (must me mp3 file)
