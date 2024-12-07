@@ -1,5 +1,5 @@
 # December 5th - Python project 
-# Engineer: Mervin Nguyen
+# : Mervin Nguyen
 
 #Steps
 #1: Create a new directory for your project
