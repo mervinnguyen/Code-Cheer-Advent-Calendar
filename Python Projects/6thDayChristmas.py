@@ -32,4 +32,38 @@ right(126)
 color("green")
 backward(n*4.8)
 
-def tree()
+def tree(d,s):
+    pensize(4)
+    if d <= 0:
+        return
+    forward(s)
+    tree(d-1, s*.8)
+    right(120)
+    tree(d-3, s*.6)
+    right(120)
+
+def lengthSelect():
+    return randmom..randint(5, 8)
+
+def stars(x,y):
+    hideturtle()
+    col = random.choice(colors)
+    l = lengthSelect()
+    color(col)
+    penup()
+    goto(x,y)
+    pendown()
+    begin_fill()
+    for i in range(5):
+        forward(l)
+        right(144)
+        forward(1)
+    end_fill()
+
+tree(12,n)
+backward(n/2)
+
+pensize(2)
+onscreenclick(stars, 1)
+
+done()
