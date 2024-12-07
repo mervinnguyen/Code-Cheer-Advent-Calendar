@@ -24,3 +24,12 @@ left(126)   #for position towards left side
 
 for i in range(5):
     forward(n/5)
+    right(144)
+    forward(n/5)
+    left(72)
+end_fill()
+right(126)
+color("green")
+backward(n*4.8)
+
+def tree()
