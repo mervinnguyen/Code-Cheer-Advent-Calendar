@@ -7,7 +7,9 @@ document.addEventListener('DOMContentLoaded', () => {
         snowflake.classList.add('snowflake');
         snowflake.style.left = `${Math.random() * 100}vw`;
         snowflake.style.animationDuration = `${Math.random() * 3 + 2}s`;
-        snowflake.style.animationDelay = `${Math.random() * 2}s`;
+        snowflake.style.opacity = Math.random();
+        snowflake.style.fontSize = `${Math.random() * 10 + 10}px`;
+        snowflake.innerHTML = '❄️';
         container.appendChild(snowflake);
     }
 }))
