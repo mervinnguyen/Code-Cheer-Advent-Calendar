@@ -20,3 +20,8 @@ body {
     background-color: #fff;
     animation: blink 1s infinite;
 }
+
+.light.red {
+    background-color: red;
+    animation-delay: 0s;
+}
