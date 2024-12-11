@@ -25,3 +25,22 @@ body {
     background-color: red;
     animation-delay: 0s;
 }
+
+.light.green {
+    background-color: green;
+    animation-delay: 0.25s;
+}
+
+.light.blue {
+    background-color: blue;
+    animation-delay: 0.5s;
+}
+
+@keyframes blink {
+    0%, 100% {
+        opacity 1;
+    }
+    50% {
+        opacity 0;
+    }
+}
