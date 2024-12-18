@@ -9,27 +9,35 @@ body {
 }
 
 .lights {
-
+    display: flex;
+    gap: 10px;
 }
 
 .bulb {
-
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    animation: blink 1s infinite;
 }
 
 .red {
-
+    background-color: red;
+    animation-delay: 0s;
 }
 
 .green {
-
+    background-color: green;
+    animation-delay: 0.25s;
 }
 
 .blue {
-
+    background-color: blue;
+    animation-delay: 0.5s;
 }
 
 .yellow {
-
+    background-color: yellow;
+    animation-delay: 0.75s;
 }
 
 @keyframes blink {
