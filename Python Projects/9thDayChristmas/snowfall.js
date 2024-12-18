@@ -12,4 +12,4 @@ document.addEventListener('DOMContentLoaded', () => {
         snowflake.innerHTML = '❄️';
         container.appendChild(snowflake);
     }
-}))
+});
