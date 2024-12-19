@@ -20,8 +20,8 @@ button {
     transition: all 0.3s ease;
 }
 
-button::before{
-
+button:hover{
+    background-color: #555;
 }
 
 button:hover::before {
