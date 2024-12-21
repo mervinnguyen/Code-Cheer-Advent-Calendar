@@ -1,4 +1,4 @@
-document.addEventListerner('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', () => {
     const recipes = [
         "Gingerbread Cookies: Mix 3 cups flour, 1 tsp baking soda, 1 tbsp ground ginger, 1 tbsp ground cinnamon, 1/2 tsp ground cloves, 1/2 tsp ground nutmeg, 1/2 tsp salt. In another bowl, beat 3/4 cup softened butter, 3/4 cup brown sugar, 1 egg, 1/2 cup molasses, 2 tsp vanilla extract. Combine wet and dry ingredients, chill dough, roll out, cut shapes, bake at 350°F for 8-10 minutes.",
         "Sugar Cookies: Mix 2 3/4 cups flour, 1 tsp baking soda, 1/2 tsp baking powder. In another bowl, beat 1 cup softened butter, 1 1/2 cups sugar, 1 egg, 1 tsp vanilla extract, 1/2 tsp almond extract. Combine wet and dry ingredients, chill dough, roll out, cut shapes, bake at 375°F for 8-10 minutes.",
