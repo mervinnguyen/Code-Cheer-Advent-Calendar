@@ -9,4 +9,9 @@ document.addEventListerner('DOMContentLoaded', () => {
 
     const button = document.getElementById('recipeButton');
     const recipeDiv = document.getElementById('recipe');
+
+    button.addEventListener('click', () => {
+        const randomIndex = Math.floor(Math.random() * recipes.length);
+        recipeDiv.textContent = recipes[randomIndex];
+    });
 });
