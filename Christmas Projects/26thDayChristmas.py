@@ -13,5 +13,13 @@ def main():
     ("What is the name of the Jewish holiday that lasts for eight days?", "Hanukkah"),
     ("Which holiday involves decorating a tree?", "Christmas"),
     ]
+
+    for question, answer in question:
+        if askQuestion(question, answer):
+            print("Correct!\n")
+            score += 1
+        else:
+            print(f"Wrong! The correct answer is '{answer}'.\n")
+
 if __name__ == '__main__':
     main()
