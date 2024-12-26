@@ -21,5 +21,7 @@ def main():
         else:
             print(f"Wrong! The correct answer is '{answer}'.\n")
 
+    print(f"Quiz over! Your final score is {score} out of {len(questions)}.")
+    
 if __name__ == '__main__':
     main()
