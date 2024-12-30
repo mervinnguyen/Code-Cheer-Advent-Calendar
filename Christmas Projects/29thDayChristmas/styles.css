@@ -1,0 +1,25 @@
+.image-container {
+    position: relative;
+    display: inline-block;
+}
+
+.image-container img {
+    display: block;
+}
+
+.image-container::after {
+    content: '';
+    position: absolute;
+    top: -20px;
+    left: 50%;
+    width: 100px;
+    height: 100px;
+    background: url('santa-hat.png') no repeat center center;
+    background-size: contain;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.image-container:hover::after {
+    opacity: 1;
+}
