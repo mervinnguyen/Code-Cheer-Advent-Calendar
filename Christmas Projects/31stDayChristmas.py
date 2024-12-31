@@ -16,3 +16,14 @@ def pairPeople(names):
             return pairPeople(names)
         
     pairs = list(zip(givers, receivers))
+    return pairs
+
+if __name__ == "__main__":
+    names = ["Alice", "Bob", "Charlie", "David", "Eve", "Frank", "Grace", "Hannah"]
+    pairs = pairPeople(names)
+    
+    pairs = pair_people(names)
+
+    print("Holiday Gift Exchange Pairs:")
+    for giver, receiver in pairs:
+        print(f"{giver} gives a gift to {receiver}")
